@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Entry point of the program.
+ * main - causes an infinite loop
  *
- * Return: Always 0 (Success)
+ * Return: 0
  */
 int main(void)
 {
