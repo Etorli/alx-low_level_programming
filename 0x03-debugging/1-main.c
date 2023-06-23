@@ -18,5 +18,6 @@ int main(void)
 	/*      i++;*/
         /*}*/
         printf("Infite loop avoided! \\o/\n");
-        return (0);
+
+	return (0);
 }
